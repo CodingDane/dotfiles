@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = avoeler@gmail.com
+	name = alexander voeler
